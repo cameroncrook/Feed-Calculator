@@ -16,8 +16,6 @@ The purpose of this program is to practice with the basic components of C++.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
 - [W3Schools](https://www.w3schools.com/cpp/)
 - [CPlusPlus](https://cplusplus.com/doc/tutorial/introduction/)
 
