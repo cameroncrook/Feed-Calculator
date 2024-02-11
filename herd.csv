@@ -1,0 +1,19 @@
+id,birthDate,breed,gender,lactating
+1,05/17/2020,Black Angus,M,false
+2,05/17/2020,Black Angus,F,false
+3,05/17/2020,Black Angus,F,false
+4,05/17/2020,Black Angus,F,true
+5,05/17/2020,Black Angus,F,true
+6,05/17/2020,Black Angus,F,false
+7,05/17/2020,Black Angus,F,false
+8,05/17/2020,Black Angus,F,false
+9,05/17/2020,Red Angus,F,false
+10,05/17/2020,Red Angus,F,false
+11,05/17/2020,Red Angus,F,true
+12,05/17/2020,Charolais,F,false
+13,05/17/2020,Charolais,F,true
+14,05/17/2020,Charolais,F,true
+15,05/17/2020,Charolais,F,true
+16,05/17/2020,Hereford,F,true
+17,05/17/2020,Hereford,F,true
+18,05/17/2020,Hereford,F,false
